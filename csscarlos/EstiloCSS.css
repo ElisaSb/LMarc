@@ -1,0 +1,22 @@
+#prueba {
+    color:crimson;
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    font-display: swap;
+}
+#opacidad {
+    opacity: 0.2;
+    color:#000aff;
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    font-display: swap;
+}
+#posicion {
+    color:#08e332;
+    text-align: right;
+    font-size: 30px;
+    font-family: cursive;
+    font-display: swap;
+}

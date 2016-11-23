@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: "sans-serif";
+    font-size: 14px;
+}
+label, input[type="submit"]{
+    margin-top: 6px;
+}
+.intro{
+    text-align: center;
+}
+.formulario{
+    background-color: bisque;
+    margin: 30px auto;
+    width: 500px;
+}
+.jumbotron{
+    padding: 16px;
+}
+.jumbotron h1 h2{
+    font-size: 36 px;
+    text-align: center;
+}
+.formulario{
+    padding: 14px;
+}
